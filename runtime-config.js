@@ -1,0 +1,1 @@
+window.__BBR_CHAT_CONFIG__ = Object.freeze({"brandName":"Body by Ravi","preChatMode":"optional","integrationMode":"mock","apiBaseUrl":"","timeZone":"America/Chicago","discoveryDurationMinutes":15,"mockStreamDelayMs":24});
